@@ -18,5 +18,15 @@
     "q": "Von wo wird der Anstoß ausgeführt?",
     "play": "Test2",
     "explain": "Vergleiche deine Aufstellung mit der Lösung."
+  },
+  {
+    "id": 52,
+    "level": 5,
+    "type": "drag_players",
+    "icon": "🏒",
+    "category": "Spielzug",
+    "q": "Wie sieht der Viererblock aus?",
+    "play": "viererblock",
+    "explain": "Vergleiche deine Aufstellung mit der Lösung."
   }
 ]
