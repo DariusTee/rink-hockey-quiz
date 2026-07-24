@@ -1,192 +1,290 @@
-[{
-      id:1,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"🏒", category:"Das Spiel",
-      q:"Wie viele Spieler stehen normalerweise pro Team auf dem Feld?",
-      options:["3 Spieler","5 Spieler (1 Torwart + 4 Feldspieler)","7 Spieler","11 Spieler"],
-      correct:1,
-      explain:"Genau! Ein Torwart und vier Feldspieler kämpfen gemeinsam um den Ball.",
-      video: null
-    },
-    {
-      id:2,  
-      level:1,
-      type:"multiple_choice",
-      image:"https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level1/bilder_webp_Spielz%C3%BCge_Rollhockey%20Spielfeld.png",
-      icon:"🛼", category:"Ausrüstung",
-      q:"Was passiert, wenn der Gegner im eigenen Strafraum gefoult wird?",
-      options:["Penalty","Freistoß","Trinkpause","Spielende"],
-      correct:0,
-      explain:"Penalty ist richtig. Bei einem Foul im Strafraum gibt es einen Penalty.",
-      video:null
-    },
-    {
-      id:3,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"⏱️", category:"Spielzeit & Ballbesitz",
-      q:"Was passiert, wenn ein Team den Ball zu lange in der eigenen Zone hält?",
-      options:["Gar nichts","Freistoß für das andere Team","Ein Bonuspunkt","Der Torwart muss raus"],
-      correct:1,
-      explain:"Nach wenigen Sekunden muss der Ball nach vorne gespielt werden – sonst gibt's Freistoß für die Gegner.",
-      video:"https://www.youtube.com/watch?v=M2lHWtC4tjs"
-    },
-    {
-      id:4,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"🥅", category:"Tor erzielen",
-      q:"Wann zählt ein Tor?",
-      options:["Wenn der Ball die Bande trifft","Wenn der Ball komplett über die Linie zwischen den Pfosten rollt","Wenn der Torwart stolpert","Wenn ein Spieler laut jubelt"],
-      correct:1,
-      explain:"Der Ball muss komplett über die Torlinie rollen – erst dann zählt der Treffer!",
-      video:null
-    },
-    {
-      id:5,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"✋", category:"Ballkontakt",
-      q:"Darf ein Feldspieler den Ball mit der Hand fangen?",
-      options:["Ja, immer","Nein, das ist nicht erlaubt","Nur mit der linken Hand","Nur im eigenen Strafraum"],
-      correct:1,
-      explain:"Hände bleiben außen vor! Gespielt wird mit dem Schläger, dem Rollschuh oder dem Bein.",
-      video:null
-    },
-    {
-      id:6, 
-      level:1, 
-      type:"multiple_choice",
-      image:null,
-      icon:"🟨", category:"Karten",
-      q:"Was bedeutet die Gelbe Karte?",
-      options:["Sofortiger Ausschluss","Eine Verwarnung","Ein Elfmeter","Ein Tor"],
-      correct:1,
-      explain:"Die Gelbe Karte ist eine Verwarnung – beim zweiten Mal wird's ernster!",
-      video:null
-    },
-    {
-      id:7, 
-      level:1, 
-      type:"multiple_choice",
-      image:null,
-      icon:"🟦", category:"Karten",
-      q:"Was passiert nach einer Blauen Karte?",
-      options:["Nichts, weiterspielen","2 Minuten Pause auf der Strafbank","Das Spiel endet sofort","Elfmeter für das eigene Team"],
-      correct:1,
-      explain:"Die Blaue Karte schickt dich für 2 Minuten auf die Bank – dein Team spielt in Unterzahl (nur 3 Feldspieler).",
-      video:null
-    },
-    {
-      id:8,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"🟥", category:"Karten",
-      q:"Was bedeutet die Rote Karte?",
-      options:["Kurze Trinkpause","Ausschluss für den Rest des Spiels","Doppelte Punkte","Zeitlupe"],
-      correct:1,
-      explain:"Rot heißt: Spiel vorbei für dich! Dein Team muss ohne dich weitermachen.",
-      video:null
-    },
-    {
-      id:9,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"⏸️", category:"Auszeit",
-      q:"Wie lange darf eine Auszeit (Time-out) höchstens dauern?",
-      options:["10 Sekunden","1 Minute","5 Minuten","So lange das Team will"],
-      correct:1,
-      explain:"Eine Minute zum Verschnaufen und Taktik besprechen – dann geht's weiter!",
-      video:null
-    },
-    {
-      id:10,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"🥊", category:"Bully",
-      q:"Was ist ein Bully?",
-      options:["Ein Foul","Zwei Spieler kämpfen nach der Pfeife fair um den Ball","Ein besonderer Schläger","Eine Auszeit"],
-      correct:1,
-      explain:"Beim Bully stehen sich zwei Spieler gegenüber und kämpfen nach dem Pfiff um den Ball.",
-      video:null
-    },
-    {
-      id:11,  
-      level:1, 
-      type:"multiple_choice", 
-      image:null,
-      icon:"📏", category:"Freistoß",
-      q:"Von wie weit wird ein Direkter Freistoß geschossen?",
-      options:["Von der Mittellinie","Von etwa 7,40 Metern vor dem Tor","Von der Eckfahne","Direkt von der Torlinie"],
-      correct:1,
-      explain:"Von dort darf direkt aufs Tor geschossen werden – nur der Torwart darf sich in den Weg stellen!",
-      video:null
-    },
-    {
-      id:12,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"🎯", category:"Penalty",
-      q:"Von wie weit wird ein Penalty ausgeführt?",
-      options:["Von 1 Meter","Von etwa 5,40 Metern","Von 20 Metern","Direkt von der Bande"],
-      correct:1,
-      explain:"Nur der Schütze und der Torwart – alle anderen müssen in sicherem Abstand warten!",
-      video:null
-    },
-    {
-      id:13,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"⛑️", category:"Sicherheit",
-      q:"Was muss ein Torwart auf jeden Fall tragen?",
-      options:["Nur Handschuhe","Helm, Brustschutz, Handschuhe und Beinschützer","Nur einen Helm","Keine Schutzausrüstung"],
-      correct:1,
-      explain:"Sicherheit geht vor! Torwarte tragen von Kopf bis Fuß Schutzausrüstung.",
-      video:null
-    },
-    {
-      id:14,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"⚖️", category:"Ballhöhe",
-      q:"Wie hoch darf der Ball normalerweise höchstens gespielt werden?",
-      options:["30 Zentimeter","Etwa 1,50 Meter","3 Meter","Beliebig hoch"],
-      correct:1,
-      explain:"Bis 1,50 Meter ist erlaubt – höher wird es für die anderen Spieler gefährlich.",
-      video:null
-    },
-    {
-      id:15,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"😴", category:"Fair Play",
-      q:"Was ist 'Passives Spiel'?",
-      options:["Sehr schnelles Spiel","Ein Team schiebt nur Zeit, ohne anzugreifen","Ein Torwart-Trick","Ein besonders hartes Foul"],
-      correct:1,
-      explain:"Wer nur den Ball hin- und herschiebt, ohne anzugreifen, bekommt einen Freistoß gegen sich.",
-      video:null
-    },
-    {
-      id:16,  
-      level:1,
-      type:"multiple_choice",
-      image:null,
-      icon:"🎳", category:"Spielfeld",
-      q:"Welche Form hat ein Rollhockey-Spielfeld?",
-      options:["Rund wie ein Kreis","Rechteckig mit abgerundeten Ecken","Dreieckig","Sechseckig"],
-      correct:1,
-      explain:"Ein Rechteck mit abgerundeten Ecken – fast wie eine kleine Rennstrecke für den Ball!",
-      video:null
-    }]
+[
+  {
+    "id": 1,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "🏒",
+    "category": "Das Spiel",
+    "q": "Wie viele Spieler stehen normalerweise pro Team auf dem Feld?",
+    "options": [
+      "3 Spieler",
+      "5 Spieler (1 Torwart + 4 Feldspieler)",
+      "7 Spieler",
+      "11 Spieler"
+    ],
+    "correct": 1,
+    "explain": "Genau! Ein Torwart und vier Feldspieler kämpfen gemeinsam um den Ball.",
+    "video": null
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level1/bilder_webp_Spielz%C3%BCge_Rollhockey%20Spielfeld.png",
+    "icon": "🛼",
+    "category": "Ausrüstung",
+    "q": "Was passiert, wenn der Gegner im eigenen Strafraum gefoult wird?",
+    "options": [
+      "Penalty",
+      "Freistoß",
+      "Trinkpause",
+      "Spielende"
+    ],
+    "correct": 0,
+    "explain": "Penalty ist richtig. Bei einem Foul im Strafraum gibt es einen Penalty.",
+    "video": null
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "⏱️",
+    "category": "Spielzeit & Ballbesitz",
+    "q": "Was passiert, wenn ein Team den Ball zu lange in der eigenen Zone hält?",
+    "options": [
+      "Gar nichts",
+      "Freistoß für das andere Team",
+      "Ein Bonuspunkt",
+      "Der Torwart muss raus"
+    ],
+    "correct": 1,
+    "explain": "Nach wenigen Sekunden muss der Ball nach vorne gespielt werden – sonst gibt's Freistoß für die Gegner.",
+    "video": "https://www.youtube.com/watch?v=M2lHWtC4tjs"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "🥅",
+    "category": "Tor erzielen",
+    "q": "Wann zählt ein Tor?",
+    "options": [
+      "Wenn der Ball die Bande trifft",
+      "Wenn der Ball komplett über die Linie zwischen den Pfosten rollt",
+      "Wenn der Torwart stolpert",
+      "Wenn ein Spieler laut jubelt"
+    ],
+    "correct": 1,
+    "explain": "Der Ball muss komplett über die Torlinie rollen – erst dann zählt der Treffer!",
+    "video": null
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "✋",
+    "category": "Ballkontakt",
+    "q": "Darf ein Feldspieler den Ball mit der Hand fangen?",
+    "options": [
+      "Ja, immer",
+      "Nein, das ist nicht erlaubt",
+      "Nur mit der linken Hand",
+      "Nur im eigenen Strafraum"
+    ],
+    "correct": 1,
+    "explain": "Hände bleiben außen vor! Gespielt wird mit dem Schläger, dem Rollschuh oder dem Bein.",
+    "video": null
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "🟨",
+    "category": "Karten",
+    "q": "Was bedeutet die Gelbe Karte?",
+    "options": [
+      "Sofortiger Ausschluss",
+      "Eine Verwarnung",
+      "Ein Elfmeter",
+      "Ein Tor"
+    ],
+    "correct": 1,
+    "explain": "Die Gelbe Karte ist eine Verwarnung – beim zweiten Mal wird's ernster!",
+    "video": null
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "🟦",
+    "category": "Karten",
+    "q": "Was passiert nach einer Blauen Karte?",
+    "options": [
+      "Nichts, weiterspielen",
+      "2 Minuten Pause auf der Strafbank",
+      "Das Spiel endet sofort",
+      "Elfmeter für das eigene Team"
+    ],
+    "correct": 1,
+    "explain": "Die Blaue Karte schickt dich für 2 Minuten auf die Bank – dein Team spielt in Unterzahl.",
+    "video": null
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "🟥",
+    "category": "Karten",
+    "q": "Was bedeutet die Rote Karte?",
+    "options": [
+      "Kurze Trinkpause",
+      "Ausschluss für den Rest des Spiels",
+      "Doppelte Punkte",
+      "Zeitlupe"
+    ],
+    "correct": 1,
+    "explain": "Rot heißt: Spiel vorbei für dich! Dein Team muss ohne dich weitermachen.",
+    "video": null
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "⏸️",
+    "category": "Auszeit",
+    "q": "Wie lange darf eine Auszeit (Time-out) höchstens dauern?",
+    "options": [
+      "10 Sekunden",
+      "1 Minute",
+      "5 Minuten",
+      "So lange das Team will"
+    ],
+    "correct": 1,
+    "explain": "Eine Minute zum Verschnaufen und Taktik besprechen – dann geht's weiter!",
+    "video": null
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "🥊",
+    "category": "Bully",
+    "q": "Was ist ein Bully?",
+    "options": [
+      "Ein Foul",
+      "Zwei Spieler kämpfen nach der Pfeife fair um den Ball",
+      "Ein besonderer Schläger",
+      "Eine Auszeit"
+    ],
+    "correct": 1,
+    "explain": "Beim Bully stehen sich zwei Spieler gegenüber und kämpfen nach dem Pfiff um den Ball.",
+    "video": null
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "📏",
+    "category": "Freistoß",
+    "q": "Von wie weit wird ein Direkter Freistoß geschossen?",
+    "options": [
+      "Von der Mittellinie",
+      "Von etwa 7,40 Metern vor dem Tor",
+      "Von der Eckfahne",
+      "Direkt von der Torlinie"
+    ],
+    "correct": 1,
+    "explain": "Von dort darf direkt aufs Tor geschossen werden – nur der Torwart darf sich in den Weg stellen!",
+    "video": null
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "🎯",
+    "category": "Penalty",
+    "q": "Von wie weit wird ein Penalty ausgeführt?",
+    "options": [
+      "Von 1 Meter",
+      "Von etwa 5,40 Metern",
+      "Von 20 Metern",
+      "Direkt von der Bande"
+    ],
+    "correct": 1,
+    "explain": "Nur der Schütze und der Torwart – alle anderen müssen in sicherem Abstand warten!",
+    "video": null
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "⛑️",
+    "category": "Sicherheit",
+    "q": "Was muss ein Torwart auf jeden Fall tragen?",
+    "options": [
+      "Nur Handschuhe",
+      "Helm, Brustschutz, Handschuhe und Beinschützer",
+      "Nur einen Helm",
+      "Keine Schutzausrüstung"
+    ],
+    "correct": 1,
+    "explain": "Sicherheit geht vor! Torwarte tragen von Kopf bis Fuß Schutzausrüstung.",
+    "video": null
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "⚖️",
+    "category": "Ballhöhe",
+    "q": "Wie hoch darf der Ball normalerweise höchstens gespielt werden?",
+    "options": [
+      "30 Zentimeter",
+      "Etwa 1,50 Meter",
+      "3 Meter",
+      "Beliebig hoch"
+    ],
+    "correct": 1,
+    "explain": "Bis 1,50 Meter ist erlaubt – höher wird es für die anderen Spieler gefährlich.",
+    "video": null
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "😴",
+    "category": "Fair Play",
+    "q": "Was ist 'Passives Spiel'?",
+    "options": [
+      "Sehr schnelles Spiel",
+      "Ein Team schiebt nur Zeit, ohne anzugreifen",
+      "Ein Torwart-Trick",
+      "Ein besonders hartes Foul"
+    ],
+    "correct": 1,
+    "explain": "Wer nur den Ball hin- und herschiebt, ohne anzugreifen, bekommt einen Freistoß gegen sich.",
+    "video": null
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "type": "multiple_choice",
+    "image": null,
+    "icon": "🎳",
+    "category": "Spielfeld",
+    "q": "Welche Form hat ein Rollhockey-Spielfeld?",
+    "options": [
+      "Rund wie ein Kreis",
+      "Rechteckig mit abgerundeten Ecken",
+      "Dreieckig",
+      "Sechseckig"
+    ],
+    "correct": 1,
+    "explain": "Ein Rechteck mit abgerundeten Ecken – fast wie eine kleine Rennstrecke für den Ball!",
+    "video": null
+  }
+]
