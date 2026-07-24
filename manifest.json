@@ -11,8 +11,8 @@
       "id": 2,
       "level": 2,
       "title": "Ausrüstung",
-      "icon": "",
-      "file": "levels/level1.json"
+      "icon": "🛼",
+      "file": "levels/level2.json"
     }
   ]
 }
