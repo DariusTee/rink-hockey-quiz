@@ -98,6 +98,6 @@
       "j30xz3"
     ],
     "ball": true,
-    "tolerance": 1
+    "tolerance": 0.1
   }
 }
