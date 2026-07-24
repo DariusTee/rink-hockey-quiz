@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "title": "Quiz_VonwomachtmandenAnstoß?",
+  "sport": "rollhockey",
+  "created": "2026-07-23T20:01:48.946Z",
+  "frames": [
+    {
+      "players": [],
+      "ball": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "arrows": []
+    },
+    {
+      "players": [],
+      "ball": {
+        "x": 0.0687725166580925,
+        "y": 0.5119892216375571
+      },
+      "arrows": []
+    }
+  ],
+  "quiz": {
+    "type": "drag_players",
+    "startFrame": 1,
+    "targetFrame": 0,
+    "movablePlayers": [],
+    "ball": true,
+    "tolerance": 0.1
+  }
+}
