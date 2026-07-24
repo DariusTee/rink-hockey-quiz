@@ -13,6 +13,13 @@
       "title": "Ausrüstung",
       "icon": "🛼",
       "file": "levels/level2.json"
+    },
+    {
+      "id": 3,
+      "level": 3,
+      "title": "Grundlagen II",
+      "icon": "",
+      "file": "levels/level3.json"
     }
   ]
 }
