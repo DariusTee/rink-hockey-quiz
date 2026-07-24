@@ -1,4 +1,4 @@
-{
+[{
       id:1,  
       level:1,
       type:"multiple_choice",
@@ -189,4 +189,4 @@
       correct:1,
       explain:"Ein Rechteck mit abgerundeten Ecken – fast wie eine kleine Rennstrecke für den Ball!",
       video:null
-    },
+    }]
