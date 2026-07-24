@@ -6,6 +6,13 @@
       "title": "Grundlagen",
       "icon": "🏒",
       "file": "levels/level1.json"
-    }
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "title": "Ausrüstung",
+      "icon": "",
+      "file": "levels/level1.json"
+    },
   ]
 }
