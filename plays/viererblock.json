@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "title": "Viererblock",
+  "sport": "rollhockey",
+  "created": "2026-07-24T20:01:23.677Z",
+  "frames": [
+    {
+      "players": [
+        {
+          "id": "k18j8f",
+          "team": "B",
+          "role": "field",
+          "label": "B1",
+          "x": 0.4080442342550744,
+          "y": 0.614439753238755
+        },
+        {
+          "id": "m6gzwk",
+          "team": "B",
+          "role": "field",
+          "label": "B2",
+          "x": 0.5969707524605186,
+          "y": 0.6170822657676712
+        },
+        {
+          "id": "whotur",
+          "team": "B",
+          "role": "field",
+          "label": "B3",
+          "x": 0.6033803258688024,
+          "y": 0.7592190238109155
+        },
+        {
+          "id": "iooogo",
+          "team": "B",
+          "role": "field",
+          "label": "B4",
+          "x": 0.40595764502538895,
+          "y": 0.7572711706374803
+        }
+      ],
+      "ball": {
+        "x": 0.5069914114049899,
+        "y": 0.5087925480962121
+      },
+      "arrows": []
+    },
+    {
+      "players": [],
+      "ball": {
+        "x": 0.5069914114049899,
+        "y": 0.5087925480962121
+      },
+      "arrows": []
+    }
+  ],
+  "quiz": {
+    "type": "drag_players",
+    "startFrame": 0,
+    "targetFrame": 0,
+    "movablePlayers": [],
+    "ball": true,
+    "tolerance": 20
+  }
+}
