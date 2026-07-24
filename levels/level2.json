@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/Azemad_Stopper_gruen.jpg",
+    "icon": "🏑",
+    "category": "Ausrüstung",
+    "q": "Wofür sind Stopper?",
+    "options": [
+      "Zum Bremsen",
+      "Zum Spurten",
+      "Stolpern",
+      "In die Bande treten"
+    ],
+    "correct": 1,
+    "explain": "Stopper sind nicht zum Bremsen da. Wir bremsen nur auf unseren Rollen. Die Stopper sind für den schnellen Antritt (Spurten).",
+    "video": null
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/gestell.jpeg",
+    "icon": "🏑",
+    "category": "Ausrüstung",
+    "q": "Wie heißt dieses Teil unter dem Rollschuh?",
+    "options": [
+      "Gestell",
+      "Schuhzunge",
+      "Schutzkappe",
+      "Bremsscheibe"
+    ],
+    "correct": 0,
+    "explain": "Es ist ein Gestell. Ein Gestell ist unterm Rollschuh befestigt. Außerdem sind Stopper und die Rollen daran befestigt. Es sorgt für die Stabilität unterm Rollschuh.",
+    "video": null
+  },
+  {
+    "id": 3,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/tapen.jpg",
+    "icon": "🏑",
+    "category": "Ausrüstung",
+    "q": "Warum kleben Rollhockeyspieler Tape um ihren Schläger?",
+    "options": [
+      "Damit sie den Schläger besser festhalten können",
+      "Es sieht cool aus",
+      "Weil der Schläger kaputt ist",
+      "Damit der Schläger schneller wird"
+    ],
+    "correct": 0,
+    "explain": "Tape sorgt für einen besseren Griff am Schläger. Jeder Spieler hat seine eigene Art, seinen Schläger zu tapen.",
+    "video": null
+  },
+  {
+    "id": 4,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/Schienbeinschoner.jpg",
+    "icon": "🏑",
+    "category": "Ausrüstung",
+    "q": "Wie heißen diese Teile auf dem Bild?",
+    "options": [
+      "Schienbeinschoner",
+      "Knieschoner",
+      "Schuhkappe",
+      "Armschutz"
+    ],
+    "correct": 0,
+    "explain": "Schienbeinschoner schützen das Schienbein vor Schüssen und Schlägen. Sie sind ein wichtiger Teil der Schutzausrüstung.",
+    "video": null
+  },
+  {
+    "id": 5,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/Azemad_V-Guard_Brustschutz.jpg",
+    "icon": "🏑",
+    "category": "Ausrüstung",
+    "q": "Wie heißt der Schutz, den ein Torwart auf der Brust trägt?",
+    "options": [
+      "Brustschutz",
+      "Halsschutz",
+      "Trikot",
+      "Knieschoner"
+    ],
+    "correct": 0,
+    "explain": "Das ist der Brustschutz des Torwarts. Er schützt den Oberkörper vor Schüssen und Treffern.",
+    "video": null
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/Azemad_V-Guard_Halsschutz.jpg",
+    "icon": "🏑",
+    "category": "Ausrüstung",
+    "q": "Wie heißt dieser Schutz?",
+    "options": [
+      "Brustschutz",
+      "Halsschutz",
+      "Handschuh",
+      "Knieschoner"
+    ],
+    "correct": 1,
+    "explain": "Das ist der Halsschutz des Torwarts. Er schützt den Hals vor Schüssen und Treffern.",
+    "video": null
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/Sitka_Helm_schwarz.jpg",
+    "icon": "⛑️",
+    "category": "Ausrüstung",
+    "q": "Dürfen Feldspieler beim Rollhockey einen Helm tragen?",
+    "options": [
+      "Ja, ein Helm ist erlaubt",
+      "Nein, nur Torwarte dürfen Helme tragen"
+    ],
+    "correct": 0,
+    "explain": "Ja. Besonders im Jugendbereich tragen viele Spieler einen Helm zum Schutz. Ob ein Helm getragen wird, entscheiden Eltern und Spieler.",
+    "video": null
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/patins.jpeg",
+    "icon": "🛼",
+    "category": "Ausrüstung",
+    "q": "Warum haben Rollhockeyspieler Rollen unter ihren Schuhen?",
+    "options": [
+      "Damit sie schnell über das Spielfeld fahren können",
+      "Damit der Schuh schwerer wird",
+      "Damit der Ball besser springt",
+      "Damit sie höher springen können"
+    ],
+    "correct": 0,
+    "explain": "Die Rollen machen es möglich, schnell über das Spielfeld zu fahren und sich wendig zu bewegen.",
+    "video": null
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/twlevel2.jpg",
+    "icon": "🥅",
+    "category": "Ausrüstung",
+    "q": "Welche Ausrüstung trägt ein Torwart zusätzlich zu den Feldspielern?",
+    "options": [
+      "Große Schutzausrüstung",
+      "Einen zweiten Schläger",
+      "Größere Rollen",
+      "Ein anderes Spielfeld"
+    ],
+    "correct": 0,
+    "explain": "Der Torwart trägt zusätzliche Schutzausrüstung, weil er viele harte Schüsse abbekommt.",
+    "video": null
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/twhelm.jpeg",
+    "icon": "⛑️",
+    "category": "Ausrüstung",
+    "q": "Warum trägt ein Torwart einen Helm?",
+    "options": [
+      "Zum Schutz des Kopfes",
+      "Damit er schneller läuft",
+      "Damit er größer aussieht",
+      "Damit er besser schießen kann"
+    ],
+    "correct": 0,
+    "explain": "Der Helm schützt den Kopf und das Gesicht des Torwarts vor Verletzungen.",
+    "video": null
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/RV66Beginner.jpg",
+    "icon": "🏑",
+    "category": "Ausrüstung",
+    "q": "Wie nennt man den Stock, mit dem Rollhockeyspieler spielen?",
+    "options": [
+      "Schläger",
+      "Schaufel",
+      "Keule",
+      "Stockschuh"
+    ],
+    "correct": 0,
+    "explain": "Der Rollhockeyschläger wird benutzt, um den Ball zu passen und zu schießen.",
+    "video": null
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/Azemad_V-Guard_Handschuhe.jpg",
+    "icon": "🧤",
+    "category": "Ausrüstung",
+    "q": "Welche Ausrüstung trägt ein Torwart an den Händen?",
+    "options": [
+      "Handschuhe",
+      "Schienbeinschoner",
+      "Knieschoner",
+      "Armbänder"
+    ],
+    "correct": 0,
+    "explain": "Die Torwarthandschuhe schützen die Hände und helfen dabei, Schüsse abzuwehren.",
+    "video": null
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "type": "multiple_choice",
+    "image": "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/quiz/level2/trikot.webp",
+    "icon": "🎽",
+    "category": "Ausrüstung",
+    "q": "Was trägt ein Spieler, damit man sein Team erkennen kann?",
+    "options": [
+      "Ein Trikot",
+      "Einen zweiten Helm",
+      "Eine andere Rolle",
+      "Ein größeres Tor"
+    ],
+    "correct": 0,
+    "explain": "Das Trikot zeigt, zu welchem Team ein Spieler gehört.",
+    "video": null
+  }
+]
