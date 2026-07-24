@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": 1,
+      "title": "Grundlagen",
+      "icon": "🥅",
+      "file": "levels/level1.json"
+    },
+    {
+      "id": 2,
+      "title": "Ausrüstung",
+      "icon": "🛼",
+      "file": "levels/level2.json"
+    },
+    {
+      "id": 3,
+      "title": "Taktik",
+      "icon": "📋",
+      "file": "levels/level3.json"
+    }
+  ]
+}
